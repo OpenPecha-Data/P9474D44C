@@ -1,0 +1,28 @@
+id: P9474D44C
+initial_creation_type: input
+source_metadata:
+  title: Reply to criticisms of the Kālacakra (block print), colophon excerpt
+  author: gos lo tsA ba gzhon nu dpal/
+  description: 'Digital version 1.0 {Wylie}, diplomatic edition of witness A; WYLIE
+    COPY of master xml (completed: 2020-05-26); revised, thematic TEI markup'
+  source: https://sakyaresearch.org
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Excerpt/Colophon'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:Mathias Fermer (mf)
+  - Editorial process:-
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/2120
+  bases:
+    88c2:
+      title: Reply to criticisms of the Kālacakra (block print), colophon excerpt
+      order: 1
+      base_file: 88c2.txt
+created_at: '2022-04-15T18:49:33.063610'
+last_modified_at: '2022-04-15T18:49:33.063617'
+quality: null
